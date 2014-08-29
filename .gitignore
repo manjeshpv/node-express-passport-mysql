@@ -213,3 +213,13 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+######
+# Idea
+######
+.idea/
+
+##############
+# node modules
+##############
+node_modules/
