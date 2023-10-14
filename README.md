@@ -1,6 +1,6 @@
 # Complete Guide to Node Authentication with MySQL
 
-
+❤️ Visit [FullStack Framework 2023](https://github.com/manjeshpv/awesome-sandbox)
 
 Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication with MongoDB
 
